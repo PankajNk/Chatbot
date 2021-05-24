@@ -1,14 +1,23 @@
 # Chatbot
-Idea was to understand working of bot 
+## Greeting Chatbot
+   It is bot which will response in voice to set of question which is trained on ML model
+   Libray used *Chatterbot*for training the bot to response.
+               *Tkinter* is a GUI where the response is displayed.
+               *Pyttsx3*is a text to speech libray,the response in text is then convert to audio.
 
-Greeting ChatBot using Chatterbot Library,
+### Demo of output  https://www.youtube.com/watch?v=y1nxZ6OODZc
 
-This is basic of  Chatterbot library which is based Machine Learning Algorithm ,
 
-Python IDLE as editor 
 
-For GUI tkinter is used
 
-Database chatdatbase.txt  file (you add to get accurate output)
 
- Demo of output https://www.youtube.com/watch?v=y1nxZ6OODZc
+
+
+
+
+
+
+
+
+
+
